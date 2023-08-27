@@ -27,6 +27,4 @@ describe('API Chaining', () => {
           })
       })
   })
-
-  
 })
